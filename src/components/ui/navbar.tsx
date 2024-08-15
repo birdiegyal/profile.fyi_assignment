@@ -30,7 +30,7 @@ export default function Navbar() {
     }
 
     return (
-        <nav className="flex justify-between items-center p-4 font-bold text-3xl bg-gray-200 sticky top-0  border-b border-gray-400">
+        <nav className="flex justify-between items-center p-4 font-bold text-3xl bg-gray-200 sticky top-0 border-b border-gray-400 z-10">
             {/* TODO: add a brand logo here when everything's done. */}
             <h1>{path}</h1>
             <Link href={redirectTo} className="relative">

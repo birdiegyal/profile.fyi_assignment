@@ -52,8 +52,8 @@ export default function Cart() {
             {
                 total > 0 &&
                 // TODO: add a input for discount.
-                <div className="flex flex-col bg-gray-200 border-t border-gray-400">
-                    <footer className="sm:p-2 sticky bottom-0 font-bold text-lg p-2">
+                <div className="flex flex-col z-10 h-full relative">
+                        <footer className="font-bold text-lg p-2 bg-gray-200 border-t border-gray-400">
                         <form action={handleSubmit} className="flex w-full justify-around sm:justify-between items-center gap-2">
                             {`Total: ${total}`}
                             <input type="text" name="discountCode" id="discountField" placeholder="Discount code" className="py-2 px-4 text-gray-900 rounded-md w-1/2" defaultValue={""} />
