@@ -41,7 +41,7 @@ export default function ProductCard(product: Product) {
 
     return (
         <div>
-            <Image src={product.src} alt={product.desc} className="overflow-hidden object-fill w-full rounded-t-md" width={100} height={100} />
+            <Image src={product.src} alt={product.desc} className="overflow-hidden object-fill w-full rounded-t-md" width={100} height={100}/>
             <div className="flex justify-between">
                 <h4 className="text-ellipsis overflow-hidden text-nowrap" >{product.name}</h4>
                 <p className=" font-bold">INR{product.price}</p>
@@ -54,7 +54,7 @@ export default function ProductCard(product: Product) {
                     quantity: 1,
                     ...product
                 })} className="addtocart-btn basis-1/2">
-                    To Cart
+                    Cart
                 </button>
             </div>
         </div>

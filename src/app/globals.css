@@ -79,6 +79,6 @@
   }
 
   .addtocart-btn {
-    @apply bg-secondary px-4 py-2 rounded-br-md text-white;
+    @apply bg-secondary sm:px-4 py-2 rounded-br-md text-white;
   }
 }

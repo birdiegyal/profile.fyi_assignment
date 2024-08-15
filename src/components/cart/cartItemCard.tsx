@@ -39,7 +39,7 @@ export default function CartItemCard(cartItem: CartItem) {
     return (
         <div className="flex flex-col">
             <div className="flex gap-2 items-start">
-                <Image src={cartItem.src} alt={cartItem.desc} width={64} height={64} className="w-1/5 rounded-l-md" />
+                <Image src={cartItem.src} alt={cartItem.desc} width={64} height={64} className="w-1/5 rounded-l-md"/>
                 <div className="text-lg">
                     <h4 className="font-bold">{cartItem.name}</h4>
                     <p className="text-xs sm:text-sm">{cartItem.desc}</p>
