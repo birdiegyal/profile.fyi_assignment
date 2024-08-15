@@ -1,0 +1,122 @@
+[
+    {
+        "id": "P001",
+        "src": "/300.svg",
+        "desc": "Sleek and powerful smartphone with a 6.5-inch OLED display and advanced camera system.",
+        "name": "TechPro X1 Smartphone",
+        "price": 59999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P002",
+        "src": "/300.svg",
+        "desc": "Lightweight laptop with 14-inch display, 16GB RAM, and 512GB SSD for ultimate productivity.",
+        "name": "UltraBook Pro 14",
+        "price": 89999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P003",
+        "src": "/300.svg",
+        "desc": "Wireless earbuds with active noise cancellation and 24-hour battery life.",
+        "name": "SoundWave TWS Earbuds",
+        "price": 9999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P004",
+        "src": "/300.svg",
+        "desc": "Smart fitness tracker with heart rate monitoring, GPS, and 7-day battery life.",
+        "name": "FitPro Smart Band",
+        "price": 4999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P005",
+        "src": "/300.svg",
+        "desc": "4K Ultra HD Smart TV with 55-inch QLED display and built-in voice assistant.",
+        "name": "VisionMax 55\" Smart TV",
+        "price": 69999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P006",
+        "src": "/300.svg",
+        "desc": "Powerful blender with 1000W motor, perfect for smoothies and food processing.",
+        "name": "BlendMaster 3000",
+        "price": 7999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P007",
+        "src": "/300.svg",
+        "desc": "Ergonomic office chair with adjustable lumbar support and breathable mesh back.",
+        "name": "ComfortPro Office Chair",
+        "price": 15999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P008",
+        "src": "/300.svg",
+        "desc": "Portable Bluetooth speaker with 20W output and 12-hour playtime.",
+        "name": "SoundBox Mini",
+        "price": 4499.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P009",
+        "src": "/300.svg",
+        "desc": "High-performance gaming console with 4K graphics and 1TB storage.",
+        "name": "GameStation 5",
+        "price": 39999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P010",
+        "src": "/300.svg",
+        "desc": "Smart home security camera with 1080p HD video, night vision, and two-way audio.",
+        "name": "SafeGuard Pro Cam",
+        "price": 5999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P011",
+        "src": "/300.svg",
+        "desc": "Robotic vacuum cleaner with smart mapping and self-emptying dustbin.",
+        "name": "CleanBot X2",
+        "price": 29999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P012",
+        "src": "/300.svg",
+        "desc": "Stylish smartwatch with heart rate monitor, GPS, and 5-day battery life.",
+        "name": "TechWear Smartwatch",
+        "price": 14999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P013",
+        "src": "/300.svg",
+        "desc": "Compact air purifier with HEPA filter, perfect for bedrooms and small offices.",
+        "name": "PureAir Mini",
+        "price": 9999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P014",
+        "src": "/300.svg",
+        "desc": "Wireless mechanical keyboard with RGB backlighting and customizable keys.",
+        "name": "TypeMaster Pro",
+        "price": 7999.00,
+        "currency": "INR"
+    },
+    {
+        "id": "P015",
+        "src": "/300.svg",
+        "desc": "Noise-cancelling over-ear headphones with 30-hour battery life and premium sound quality.",
+        "name": "AudioElite Pro",
+        "price": 18999.00,
+        "currency": "INR"
+    }
+]
